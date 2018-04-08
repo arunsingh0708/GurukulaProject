@@ -1,0 +1,16 @@
+1.Duplicate entries with same  name and code should not be allowed on Branches page.An error should be displayed when user tries to add duplicate record.
+2.When adding a new branch,clicking multiple times on save button creates multiple duplicate records
+3.When creating a new staff ,Branch dropdown should be displayed with unique values.Currently if branches with duplicate names exist,the dopdown displays duplicate entries,which confuses user as there is no unique information alongwith name present like code or ID. 
+4.No Pagination present on Branches page.
+5.Duplicate entries with same name and Branch should not be allowed on Staff page
+6. On Staff page,pagination count per page should be defined for e.g. 1-10
+7.Pagination next(>>) link should not be enabled until there is a minimum record count for e.g 10 present on the page
+8. Pagination previous(<<)link should be disabled for the first page.
+9.Search Branch functionality does not clearly indicate what search parameter to be entered
+10.9.Search Staff functionality does not clearly indicate what search parameter to be entered
+11.Unable to modify user settings in Account.
+12.Registration functionality not working.Getting error message "Registration Failed!Please try later"
+13.Reset password functionality does not work.
+14.When invalidating the user session from Account->Sessions,user is not logged out of the application.
+15.When trying to delete a Branch fom Branches page which is used by some staff member at staff page,branch does not get deleted on clicking multiple times on delete button but from staff page, staff member gets deleted which is using that branch.So in order to delete a branch from branch page,all the linked staff members to that branch should be first deleted from staff page and then only user can delete that branch from branch page.But there is no alert/warning given to the user who is trying to delete the branch and user keeps on clicking the delete button wondering that branch will get deleted,but it does not.
+

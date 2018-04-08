@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="384031" started-at="2018-04-07T19:48:07Z" finished-at="2018-04-07T19:54:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="384031" started-at="2018-04-07T19:48:07Z" finished-at="2018-04-07T19:54:31Z">
+      <class name="com.automation.testcases.gurukula.GurkulaStaffScenarios">
+        <test-method status="PASS" signature="Createbranch()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="Createbranch" is-config="true" duration-ms="31934" started-at="2018-04-07T21:51:30Z" finished-at="2018-04-07T21:52:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createbranch -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="setUp" is-config="true" duration-ms="22965" started-at="2018-04-07T21:52:01Z" finished-at="2018-04-07T21:52:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CreateStaff()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="CreateStaff" duration-ms="3299" started-at="2018-04-07T21:52:24Z" description="Create new staff" finished-at="2018-04-07T21:52:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateStaff -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="tearDown" is-config="true" duration-ms="2333" started-at="2018-04-07T21:52:28Z" finished-at="2018-04-07T21:52:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="setUp" is-config="true" duration-ms="16052" started-at="2018-04-07T21:52:30Z" finished-at="2018-04-07T21:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Searchstaff()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="Searchstaff" duration-ms="2772" started-at="2018-04-07T21:52:46Z" description="Search a staff" finished-at="2018-04-07T21:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchstaff -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="tearDown" is-config="true" duration-ms="2064" started-at="2018-04-07T21:52:49Z" finished-at="2018-04-07T21:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="setUp" is-config="true" duration-ms="18044" started-at="2018-04-07T21:52:51Z" finished-at="2018-04-07T21:53:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="viewstaff()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="viewstaff" duration-ms="1857" started-at="2018-04-07T21:53:09Z" description="View a staff" finished-at="2018-04-07T21:53:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewstaff -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="tearDown" is-config="true" duration-ms="2049" started-at="2018-04-07T21:53:11Z" finished-at="2018-04-07T21:53:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="setUp" is-config="true" duration-ms="12616" started-at="2018-04-07T21:53:13Z" finished-at="2018-04-07T21:53:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editstaff()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="editstaff" duration-ms="9812" started-at="2018-04-07T21:53:26Z" description="Edit a staff" finished-at="2018-04-07T21:53:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editstaff -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="tearDown" is-config="true" duration-ms="3045" started-at="2018-04-07T21:53:35Z" finished-at="2018-04-07T21:53:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="setUp" is-config="true" duration-ms="19653" started-at="2018-04-07T21:53:38Z" finished-at="2018-04-07T21:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deletestaff()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="deletestaff" duration-ms="4873" started-at="2018-04-07T21:53:58Z" description="Delete a staff" finished-at="2018-04-07T21:54:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletestaff -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="tearDown" is-config="true" duration-ms="2752" started-at="2018-04-07T21:54:03Z" finished-at="2018-04-07T21:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="Deletebranch()[pri:0, instance:com.automation.testcases.gurukula.GurkulaStaffScenarios@60addb54]" name="Deletebranch" is-config="true" duration-ms="25348" started-at="2018-04-07T21:54:06Z" finished-at="2018-04-07T21:54:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Deletebranch -->
+      </class> <!-- com.automation.testcases.gurukula.GurkulaStaffScenarios -->
+      <class name="com.automation.testcases.gurukula.GurukulaBranchScenarios">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="setUp" is-config="true" duration-ms="63653" started-at="2018-04-07T21:48:07Z" finished-at="2018-04-07T21:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Createbranch()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="Createbranch" duration-ms="6423" started-at="2018-04-07T21:49:11Z" description="Create new branch" finished-at="2018-04-07T21:49:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createbranch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="tearDown" is-config="true" duration-ms="17173" started-at="2018-04-07T21:49:17Z" finished-at="2018-04-07T21:49:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="setUp" is-config="true" duration-ms="15091" started-at="2018-04-07T21:49:34Z" finished-at="2018-04-07T21:49:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Searchbranch()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="Searchbranch" duration-ms="2306" started-at="2018-04-07T21:49:49Z" description="Search a branch" finished-at="2018-04-07T21:49:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchbranch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="tearDown" is-config="true" duration-ms="2567" started-at="2018-04-07T21:49:52Z" finished-at="2018-04-07T21:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="setUp" is-config="true" duration-ms="26282" started-at="2018-04-07T21:49:54Z" finished-at="2018-04-07T21:50:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="viewbranch()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="viewbranch" duration-ms="1535" started-at="2018-04-07T21:50:21Z" description="View the branch" finished-at="2018-04-07T21:50:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewbranch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="tearDown" is-config="true" duration-ms="3031" started-at="2018-04-07T21:50:22Z" finished-at="2018-04-07T21:50:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="setUp" is-config="true" duration-ms="20350" started-at="2018-04-07T21:50:25Z" finished-at="2018-04-07T21:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editbranch()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="editbranch" duration-ms="4083" started-at="2018-04-07T21:50:45Z" description="Edit a branch" finished-at="2018-04-07T21:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editbranch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="tearDown" is-config="true" duration-ms="2833" started-at="2018-04-07T21:50:50Z" finished-at="2018-04-07T21:50:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="setUp" is-config="true" duration-ms="29440" started-at="2018-04-07T21:50:52Z" finished-at="2018-04-07T21:51:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deletebranch()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="deletebranch" duration-ms="5107" started-at="2018-04-07T21:51:22Z" description="Delete a branch" finished-at="2018-04-07T21:51:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletebranch -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automation.testcases.gurukula.GurukulaBranchScenarios@6615435c]" name="tearDown" is-config="true" duration-ms="2641" started-at="2018-04-07T21:51:27Z" finished-at="2018-04-07T21:51:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automation.testcases.gurukula.GurukulaBranchScenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
